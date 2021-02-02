@@ -1,0 +1,8 @@
+.ant-comment-avatar img{
+    width: 42px;
+    height: 42px;
+}
+
+.ant-comment-content-author > a, .ant-comment-content-author > span >a{
+    font-size: 13px;
+}
